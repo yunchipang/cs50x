@@ -14,7 +14,7 @@ int main(void)
         cents = round(dollars * 100);
     }
     while (dollars < 0);
-    //printf("%i\nsubmit50 cs50/problems/2021/x/cash", cents);
+    //printf("%i\n", cents);
 
     // define the coins available
     int money[4];
