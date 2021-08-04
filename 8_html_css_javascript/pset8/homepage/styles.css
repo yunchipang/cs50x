@@ -1,0 +1,62 @@
+h1
+{
+    font-family: 'Playfair Display';
+    font-weight: 800;
+    text-align: center;
+    margin: 20px;
+}
+
+.pagelink
+{
+    color: #000000;
+}
+
+.pagelink:hover
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+button
+{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 5px;
+}
+
+button:hover
+{
+    background-color: #c0c0c0;
+}
+
+span
+{
+    margin: 5px;
+}
+
+#youtube-embed
+{
+    text-align: center;
+}
+
+#button-group
+{
+    display: block;
+    text-align: center;
+}
+
+img
+{
+    width: 100%;
+}
+
+h4
+{
+    text-align: center;
+}
+
+iframe
+{
+    display: block;
+    margin: 0 auto;
+}
